@@ -1,0 +1,23 @@
+# Pozsi's FP IDE-like colorscheme
+# Pozsar Zsolt <pozsarzs@gmail.com>
+
+color-link default "brightyellow,blue"
+color-link color-column "cyan"
+color-link comment "bold brightgreen"
+color-link constant "brightyellow"
+color-link constant.specialChar "red"
+color-link current-line-number "black,cyan"
+color-link cursor-line "blue"
+color-link divider "white,black"
+color-link error-message "brightred,black"
+color-link identifier "brightwhite"
+color-link line-number "brightcyan,blue"
+color-link message "white,black"
+color-link preproc "brightred"
+color-link special "brightwhite"
+color-link statement "bold brightwhite"
+color-link statusline "black,white"
+color-link symbol.brackets "default"
+color-link symbol "brightred"
+color-link tabbar "black,white"
+color-link type "brightcyan"
